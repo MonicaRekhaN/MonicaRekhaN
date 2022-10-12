@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MonicaRekhaN
-- 👀 I’m interested in NLP ideas and projects
+- 👀 I’m interested in AI/ML/NLP ideas and projects
